@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student with a 
 🎯 My goal: To build cool innovative projects using ML<br/>
 
 
-![techie-coder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techie-coder&theme=vue-dark&hide_border=true)<br/>
+![techie-coder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techie-coder&theme=vue-dark&hide_border=true)
 ![techie-coder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-coder&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## ✨ Fun Fact
