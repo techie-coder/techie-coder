@@ -4,11 +4,9 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student with a 
 
 🌟 About Me
 🎓 First-year Computer Science Engineering student<br/>
-💻 I’m currently learning Data Structures and Algorithms<br/>
-🌱 Dedicated to mastering web devolopment over the next 6 months<br/>
+💻 Experimenting with web3, ai<br/>
 🌍 Enthusiastic about contributing to open-source projects<br/>
-📚 Constantly learning and experimenting with JavaScript, Node.js, React, and AI<br/>
-🎯 My goal: To build cool innovative projects using ML<br/>
+🎯 My goal: To build cool innovative projects
 
 
 ![techie-coder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techie-coder&theme=vue-dark&hide_border=true)
